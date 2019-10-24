@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+th, h3, h1 {
+    border: 2px solid green;}
+    table{padding: 10px}
+    td {padding: 5px}
+    body {
+        background-color:#0d0d0d
+    }
+</style>
+
+<center><h1><font color="00cc00">prisons are not nessessary</font></h1>
+<br>
+   <p><font color="00cc00">by Grayson</font></p> 
+   
+
+<br>    
+<table>
+<tr>
+    <th><font color="00cc00">they are an <b>unsuscessful</b> deturent of crime</font></th>
+    <th><font color="00cc00">people are put in prison for bad reasons</font></th>
+    <th><font color="00cc00">it distroys someone's life, even after they get out</font></th>
+</tr>    
+<tr>
+    <td><pre><font color="00cc00">
+The entire point of prison, and all of the systems surrounding
+it it all to stop crime. After someone has committed a crime,
+in order to stop that person from doing any more crime you lock 
+them away for a long enough period of time, that they will change,
+and come out of prison a different person from when they came in.
+when simplified to this degree anyone can tell you that there are 
+some major problems in this system. Firstly, there is very little 
+effort put into crime prevention; prison is just kind of used as 
+a threat, and for most people, they are too afraid to try anything
+that could get them sent there. But for those people who are 
+disturbed enough to try to do something anyway, it is very hard
+to stop them, only penalize them afterwards.Than the method of 
+penalization is also a very poor one. The entire concept is that
+people change over time, and so if you wait long enough the person
+who committed the crime will change in such a way that they will 
+not commit that crime, or any other ever again. If you wanted to 
+influence change in someone in a positive way, the best way to do
+it would be to put them in a positive environment, and let them 
+become more suited to the environment, than release them,
+but instead the environment we put people in is a cruel place,
+surrounded with other cruel people. From my standpoint, 
+this seems like a perfect wayto make even more criminals, 
+because the people inside who committed petty crimes will mold
+to be more like those who committed the more serious crimes. 
+There are many ways to try to stop crime, and many of those 
+ways make slightly more sense than the system we employ
+</font></pre></td>
+ 
+<td><pre><font color="00cc00">
+this is my second paragraph but this needs to be slightly longer 
+</font></pre></td>
+<td><pre><font color="00cc00">
+this is my third paragraph but this needs to be slightly longer
+</font></pre></td>
+</tr>    
+</table>    
+    <p><font color="00cc00"> this ithe the thingy</font><p>
+    </center>
+</body>
+</html>
