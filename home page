@@ -2,8 +2,8 @@
 <html>
 <body>
 <style>
-th, h3, h1 {
-    border: 2px solid green;}
+th, h1 {border: 2px solid green;}
+    
     table{padding: 10px}
     td {padding: 5px}
     body {
@@ -13,55 +13,113 @@ th, h3, h1 {
 
 <center><h1><font color="00cc00">prisons are not nessessary</font></h1>
 <br>
-   <p><font color="00cc00">by Grayson</font></p> 
-   
+   <p><font color="00cc00">coded in html by Grayson wieczorek</font></p> 
+<h3><pre><font color="00cc00">
+This is my website for the avalon macalester roundtable class.
+this class asked us all to answer the question,<b> “Are prisons necessary?”</b>
+At the beginning of this class, I had a very punishment oriented view, and after being
+influenced by some very powerful people, I now have an extremely different 
+view than the one I had before. </font></pre><h3>   
 
 <br>    
 <table>
 <tr>
-    <th><font color="00cc00">they are an <b>unsuscessful</b> deturent of crime</font></th>
-    <th><font color="00cc00">people are put in prison for bad reasons</font></th>
-    <th><font color="00cc00">it distroys someone's life, even after they get out</font></th>
+    <th><font color="00cc00">They are an <b>unsuscessful</b> deturent of crime</font></th>
+    <th><font color="00cc00">People are put in prison for bad reasons</font></th>
+    <th><font color="00cc00">It distroys someone's life, even after they get out</font></th>
 </tr>    
 <tr>
-    <td><pre><font color="00cc00">
-The entire point of prison, and all of the systems surrounding
-it it all to stop crime. After someone has committed a crime,
-in order to stop that person from doing any more crime you lock 
-them away for a long enough period of time, that they will change,
-and come out of prison a different person from when they came in.
-when simplified to this degree anyone can tell you that there are 
-some major problems in this system. Firstly, there is very little 
-effort put into crime prevention; prison is just kind of used as 
-a threat, and for most people, they are too afraid to try anything
-that could get them sent there. But for those people who are 
-disturbed enough to try to do something anyway, it is very hard
-to stop them, only penalize them afterwards.Than the method of 
-penalization is also a very poor one. The entire concept is that
-people change over time, and so if you wait long enough the person
-who committed the crime will change in such a way that they will 
-not commit that crime, or any other ever again. If you wanted to 
-influence change in someone in a positive way, the best way to do
-it would be to put them in a positive environment, and let them 
-become more suited to the environment, than release them,
-but instead the environment we put people in is a cruel place,
-surrounded with other cruel people. From my standpoint, 
-this seems like a perfect wayto make even more criminals, 
-because the people inside who committed petty crimes will mold
-to be more like those who committed the more serious crimes. 
-There are many ways to try to stop crime, and many of those 
-ways make slightly more sense than the system we employ
-</font></pre></td>
+    <td><font color="00cc00">
+The entire point of prison, and all of the systems surrounding it, is to stop crime. After someone has committed a crime, in order to stop that person from doing any more crime they are locked away for a long enough period of time, that they will change and come out of prison a different person from when they came in.
+When simplified to this degree, anyone can tell you that there are some major problems in this system. 
+Firstly, there is very little effort put into crime prevention, this is shown in the way in which cops are used by the system. Cops only come when called. When they are called their duty is to put people who have broken the laws under arrest, not to solve the problem. 
+Prison is used as a threat. In my experience, the threat alone provides enough of a curb for people to not commit crimes. However, for those people who are driven enough to try to do something anyway, it is very hard to stop them;  we can only penalize them afterwards. 
+Then the method of penalization is also a very poor one. The entire concept is that people change over time, and so, if you wait long enough, the person who committed the crime will change in such a way that they will not commit that crime again. To influence change in someone in a positive way, a better way would be to
+put them in a positive environment and let them become more suited to the environment, then release them. But instead the environment we put people in is one where the majority of the other people are those who have done things worse than them. From my standpoint, this seems like a perfect way to make even more criminals 
+because the people inside who committed petty crimes will mold to be more like those who committed the more serious crimes; it is basic human nature. This effect is not true across the board, but it is true enough that it poses a problem.
+There are many more ways to try to stop crime, and many of those ways make slightly more sense than the system we employ. 
+
+
+</font></td>
  
-<td><pre><font color="00cc00">
-this is my second paragraph but this needs to be slightly longer 
-</font></pre></td>
-<td><pre><font color="00cc00">
-this is my third paragraph but this needs to be slightly longer
-</font></pre></td>
+<td><font color="00cc00">
+As I said before, the point of putting people in prison is to wait 
+for them to change into someone that will not commit the same crimes
+they did to warrant them going into prison; however, there are lots 
+of people who are in prison for committing something that do not think
+should be a crime, and lots more in for much longer than needed. One of
+the large reasons behind all of this is simple greed. The way prisons 
+are event slightly -profitable, is they have the people inside them 
+doing work for companies, than some of the profit of the items they 
+made got back into the prisons to help run them. All this adds up to
+about two million odd people doing labor which is either underpaid or
+unpaid. The money from these trickles down, and corrupts the entire 
+system. The prison systems keep people in longer by lobbying legislators
+to change laws to keep people in prison longer, and to make more 
+legislation which can be used to imprison even more people. An 
+example of this is the mandatory minimum sentencing laws, which
+say that you have to spend at least 85% of your time in prison 
+without parole . The police who are in charge of finding people
+to put in prison have been given quotas of people they have to 
+collect, and they intentionally look for people committing crimes
+in poorer communities. All of this adds up to thousands of people
+getting sentenced each year for years or even decades.
+
+
+</font></td>
+<td><font color="00cc00">
+The idea of putting someone in a place until they change is not
+necessarily a bad idea. It is the same idea used for toddlers 
+who have done something bad, and it is known as time out. For 
+adults the simple ten minutes for a toddler is scaled up by years.
+I see no reason why anyone should be in prison for 20 years, let 
+alone a life sentence! People should be made to change in such a
+way that they will be able to rejoin society as a whole in as 
+little time as possible. The fact that one out of every three 
+prisoners who are released go right back in within three years. 
+Event  if you beat the odds, you still lose the right to vote, 
+and every job you ever try to get an interview for you will be 
+taken a second look at just to make sure you aren't a dangerous
+criminal event through the time you spent in prison should be 
+enough for you to go back out into society.
+
+</font></td>
 </tr>    
 </table>    
-    <p><font color="00cc00"> this ithe the thingy</font><p>
+    <p><font color="00cc00">
+At the beginning of this class I pretty much had the opposite view of the view I do now. 
+Then I thought: prisons are a government-run establishment where we put bad people who
+can only do damage to the rest of us. after the time they have spent in prison they 
+will have learned their lesson and won’t do anything like that ever again. 
+Now I believe  that no matter the people who run the prison they are always corrupt.
+They hold people and force them to do things for extremely long periods of time, and
+this is wrong. The people in the system no matter what they have done should have a 
+chance at redemption, and, once they have attained it, they should be viewed by the 
+rest of society as people who are trustworthy and have gone the extra mile to right 
+their wrongs. This new idea of mine has been influenced by many of the things that I
+experienced, namely all of the speakers who i listened to who had committed crimes. 
+The three biggest ones were Raj Sethuraju, a man who when he was young was addicted 
+to drugs, but he got over it without ever being arrested, and now looks to help others.
+He helps keep people out of prison and helps them to reform their lives so that they 
+can go forward in a better way. The second group of people who helped me to form my 
+opinion were the two leaders of a group called Ujamaa Place, Otis Zanders and his 
+friend Freddie . Ujamaa Place is an organization where courts can sometimes make 
+the decision to instead of sending people to prison: they can be sent here to get
+a chance to change themselves; this is what makes me thing that any of my ideas 
+about rehabilitation are even possible.
+Finally, a man named Eddy Zheng, who committed a crime at the age of 16, and spent decades of his life trying to get out of prison. While he was in he wrote a newsletter
+of sorts talking about events around him and the prison he was in
+through it was such a volatile viewpoint that they tried to censor him many times. After he got out, he joined several different community groups such as the Community
+Youth Center of San Francisco and the Asian Prisoner Support Committee. To me the idea 
+that a man who had done something bad WAS a bad man, and this idea of mine was continually challenged until it was completely disproved.
+Over the course of this class my view has radically changed. The main reason for this change was a transition to me thinking of the topic as a very conceptual thing. I
+understood the economics, and lots of the laws concerning the system,
+but I had no frame of reference on how people are treated by it.  After hearing about all of these people so unfairly affected by this system, now I have a more 
+personal viewpoint and one more closely aligned with reality. 
+
+
+</font></p>
+    
     </center>
 </body>
 </html>
